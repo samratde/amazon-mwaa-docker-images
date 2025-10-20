@@ -5148,7 +5148,7 @@ UNKNOWN
 
 attrs
 25.3.0
-UNKNOWN
+MIT
 https://www.attrs.org/en/stable/changelog.html
 /usr/local/airflow/.local/lib/python3.12/site-packages/attrs-25.3.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
@@ -5508,10 +5508,10 @@ Copyright 2013-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 /usr/local/airflow/.local/lib/python3.12/site-packages/boto3-1.37.3.dist-info/NOTICE
 
 boto3-stubs
-1.38.27
+1.40.55
 MIT License
 https://github.com/youtype/mypy_boto3_builder
-/usr/local/airflow/.local/lib/python3.12/site-packages/boto3_stubs-1.38.27.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/boto3_stubs-1.40.55.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 Vlad Emelianov
@@ -5783,10 +5783,10 @@ one at http://mozilla.org/MPL/2.0/.
 /usr/local/airflow/.local/lib/python3.12/site-packages/botocore-1.37.3.dist-info/NOTICE
 
 botocore-stubs
-1.38.27
-MIT License
+1.40.55
+MIT
 https://github.com/youtype/botocore-stubs
-/usr/local/airflow/.local/lib/python3.12/site-packages/botocore_stubs-1.38.27.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/botocore_stubs-1.40.55.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022 Vlad Emelianov
@@ -5851,7 +5851,7 @@ UNKNOWN
 
 cadwyn
 5.3.3
-MIT License
+MIT
 UNKNOWN
 /usr/local/airflow/.local/lib/python3.12/site-packages/cadwyn-5.3.3.dist-info/licenses/LICENSE
 MIT License
@@ -6810,7 +6810,7 @@ UNKNOWN
 
 filelock
 3.18.0
-The Unlicense (Unlicense)
+Unlicense
 https://github.com/tox-dev/py-filelock
 /usr/local/airflow/.local/lib/python3.12/site-packages/filelock-3.18.0.dist-info/licenses/LICENSE
 This is free and unencumbered software released into the public domain.
@@ -8060,7 +8060,7 @@ UNKNOWN
 
 httpcore
 1.0.9
-BSD License
+BSD-3-Clause
 https://www.encode.io/httpcore/
 /usr/local/airflow/.local/lib/python3.12/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md
 Copyright © 2020, [Encode OSS Ltd](https://www.encode.io/).
@@ -8126,7 +8126,7 @@ UNKNOWN
 
 httpx
 0.27.0
-BSD License
+BSD-3-Clause
 https://github.com/encode/httpx
 /usr/local/airflow/.local/lib/python3.12/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md
 Copyright © 2019, [Encode OSS Ltd](https://www.encode.io/).
@@ -8147,7 +8147,7 @@ UNKNOWN
 
 humanize
 4.12.3
-UNKNOWN
+MIT
 https://github.com/python-humanize/humanize
 /usr/local/airflow/.local/lib/python3.12/site-packages/humanize-4.12.3.dist-info/licenses/LICENCE
 Copyright (c) 2010-2020 Jason Moiron and Contributors
@@ -8795,7 +8795,7 @@ UNKNOWN
 
 jsonschema-specifications
 2025.4.1
-UNKNOWN
+MIT
 https://github.com/python-jsonschema/jsonschema-specifications
 /usr/local/airflow/.local/lib/python3.12/site-packages/jsonschema_specifications-2025.4.1.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
@@ -9392,10 +9392,10 @@ UNKNOWN
 UNKNOWN
 
 mypy-boto3-logs
-1.38.16
+1.40.32
 MIT License
 https://github.com/youtype/mypy_boto3_builder
-/usr/local/airflow/.local/lib/python3.12/site-packages/mypy_boto3_logs-1.38.16.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/mypy_boto3_logs-1.40.32.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 Vlad Emelianov
@@ -9421,10 +9421,10 @@ UNKNOWN
 UNKNOWN
 
 mypy-boto3-sqs
-1.38.0
+1.40.35
 MIT License
 https://github.com/youtype/mypy_boto3_builder
-/usr/local/airflow/.local/lib/python3.12/site-packages/mypy_boto3_sqs-1.38.0.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/mypy_boto3_sqs-1.40.35.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 Vlad Emelianov
@@ -11563,7 +11563,7 @@ UNKNOWN
 
 platformdirs
 4.3.8
-MIT License
+MIT
 https://github.com/tox-dev/platformdirs
 /usr/local/airflow/.local/lib/python3.12/site-packages/platformdirs-4.3.8.dist-info/licenses/LICENSE
 MIT License
@@ -12213,10 +12213,10 @@ UNKNOWN
 UNKNOWN
 
 psycopg2
-2.9.10
+2.9.11
 GNU Library or Lesser General Public License (LGPL)
 https://psycopg.org/
-/usr/local/airflow/.local/lib/python3.12/site-packages/psycopg2-2.9.10.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/psycopg2-2.9.11.dist-info/licenses/LICENSE
 psycopg2 and the LGPL
 ---------------------
 
@@ -12365,7 +12365,7 @@ UNKNOWN
 UNKNOWN
 
 pycurl
-7.45.6
+7.45.7
 GNU Library or Lesser General Public License (LGPL); MIT License
 http://pycurl.io/
 /usr/local/airflow/.local/lib/python3.12/site-packages/../../../share/doc/pycurl/COPYING-LGPL
@@ -12877,7 +12877,7 @@ UNKNOWN
 
 pydantic
 2.11.4
-MIT License
+MIT
 https://github.com/pydantic/pydantic
 /usr/local/airflow/.local/lib/python3.12/site-packages/pydantic-2.11.4.dist-info/licenses/LICENSE
 The MIT License (MIT)
@@ -13246,7 +13246,7 @@ UNKNOWN
 
 python-multipart
 0.0.20
-Apache Software License
+Apache-2.0
 https://github.com/Kludex/python-multipart
 /usr/local/airflow/.local/lib/python3.12/site-packages/python_multipart-0.0.20.dist-info/licenses/LICENSE.txt
 Copyright 2012, Andrew Dunham
@@ -13575,7 +13575,7 @@ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 referencing
 0.36.2
-UNKNOWN
+MIT
 https://github.com/python-jsonschema/referencing
 /usr/local/airflow/.local/lib/python3.12/site-packages/referencing-0.36.2.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
@@ -14047,7 +14047,7 @@ UNKNOWN
 
 rich-argparse
 1.7.0
-MIT License
+MIT
 https://github.com/hamdanal/rich-argparse
 /usr/local/airflow/.local/lib/python3.12/site-packages/rich_argparse-1.7.0.dist-info/licenses/LICENSE
 MIT License
@@ -14077,7 +14077,7 @@ UNKNOWN
 
 rich-toolkit
 0.14.5
-MIT License
+MIT
 UNKNOWN
 /usr/local/airflow/.local/lib/python3.12/site-packages/rich_toolkit-0.14.5.dist-info/licenses/LICENSE
 MIT License
@@ -14646,7 +14646,7 @@ UNKNOWN
 
 soupsieve
 2.7
-MIT License
+MIT
 https://github.com/facelessuser/soupsieve
 /usr/local/airflow/.local/lib/python3.12/site-packages/soupsieve-2.7.dist-info/licenses/LICENSE.md
 MIT License
@@ -14710,7 +14710,7 @@ UNKNOWN
 
 starlette
 0.46.2
-BSD License
+BSD-3-Clause
 https://github.com/encode/starlette
 /usr/local/airflow/.local/lib/python3.12/site-packages/starlette-0.46.2.dist-info/licenses/LICENSE.md
 Copyright © 2018, [Encode OSS Ltd](https://www.encode.io/).
@@ -14775,7 +14775,7 @@ UNKNOWN
 
 structlog
 25.3.0
-Apache Software License; MIT License
+MIT OR Apache-2.0
 https://github.com/hynek/structlog/blob/main/CHANGELOG.md
 /usr/local/airflow/.local/lib/python3.12/site-packages/structlog-25.3.0.dist-info/licenses/LICENSE-APACHE
 
@@ -14963,7 +14963,7 @@ Copyright 2013 Hynek Schlawack and the structlog contributors
 
 svcs
 25.1.0
-UNKNOWN
+MIT
 https://github.com/hynek/svcs/blob/main/CHANGELOG.md
 /usr/local/airflow/.local/lib/python3.12/site-packages/svcs-25.1.0.dist-info/licenses/LICENSE
 MIT License
@@ -15232,7 +15232,7 @@ UNKNOWN
 
 termcolor
 3.1.0
-UNKNOWN
+MIT
 https://github.com/termcolor/termcolor
 /usr/local/airflow/.local/lib/python3.12/site-packages/termcolor-3.1.0.dist-info/licenses/COPYING.txt
 Copyright (c) 2008-2011 Volvox Development Team
@@ -15643,10 +15643,10 @@ UNKNOWN
 UNKNOWN
 
 types-awscrt
-0.27.2
+0.28.2
 MIT License
 https://github.com/youtype/types-awscrt
-/usr/local/airflow/.local/lib/python3.12/site-packages/types_awscrt-0.27.2.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/types_awscrt-0.28.2.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022 Vlad Emelianov
@@ -15919,10 +15919,10 @@ UNKNOWN
 UNKNOWN
 
 types-s3transfer
-0.13.0
+0.14.0
 MIT License
 https://github.com/youtype/types-s3transfer
-/usr/local/airflow/.local/lib/python3.12/site-packages/types_s3transfer-0.13.0.dist-info/licenses/LICENSE
+/usr/local/airflow/.local/lib/python3.12/site-packages/types_s3transfer-0.14.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022 Vlad Emelianov
@@ -15980,7 +15980,7 @@ UNKNOWN
 
 typing_extensions
 4.13.2
-UNKNOWN
+PSF-2.0
 https://github.com/python/typing_extensions
 /usr/local/airflow/.local/lib/python3.12/site-packages/typing_extensions-4.13.2.dist-info/licenses/LICENSE
 A. HISTORY OF THE SOFTWARE
@@ -16377,7 +16377,7 @@ UNKNOWN
 
 urllib3
 2.4.0
-UNKNOWN
+MIT
 https://github.com/urllib3/urllib3/blob/main/CHANGES.rst
 /usr/local/airflow/.local/lib/python3.12/site-packages/urllib3-2.4.0.dist-info/licenses/LICENSE.txt
 MIT License
@@ -16437,7 +16437,7 @@ UNKNOWN
 
 uvicorn
 0.34.2
-BSD License
+BSD-3-Clause
 https://www.uvicorn.org/
 /usr/local/airflow/.local/lib/python3.12/site-packages/uvicorn-0.34.2.dist-info/licenses/LICENSE.md
 Copyright © 2017-present, [Encode OSS Ltd](https://www.encode.io/).
@@ -16746,7 +16746,7 @@ UNKNOWN
 
 virtualenv
 20.31.2
-MIT License
+MIT
 https://github.com/pypa/virtualenv
 /usr/local/airflow/.local/lib/python3.12/site-packages/virtualenv-20.31.2.dist-info/licenses/LICENSE
 Copyright (c) 2020-202x The virtualenv developers
